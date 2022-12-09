@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "502d21658bc19ac3",
+        "id": "456ef605aedb1bbf",
         "type": "tabs",
         "children": [
           {
-            "id": "b3ad8611707dcd8d",
+            "id": "f1f1f058fca58b6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. AWS/3. S3.md",
+                "file": "1. AWS/1. First Class - Introduction.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ba45d7757123ea83",
+            "id": "eb6b4162a8213a2d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Getting started/1. Setup.md",
+                "file": "1. AWS/3. Third Class - Amazon Ec2.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Getting started/1. Setup.md",
+                "file": "1. AWS/3. Third Class - Amazon Ec2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Getting started/1. Setup.md",
+                "file": "1. AWS/3. Third Class - Amazon Ec2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Getting started/1. Setup.md"
+                "file": "1. AWS/3. Third Class - Amazon Ec2.md"
               }
             }
           }
@@ -149,13 +149,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a66a2c5e83b68c92",
+  "active": "eb6b4162a8213a2d",
   "lastOpenFiles": [
+    "1. AWS/2. Second Class - IAM (Identity Access Management).md",
+    "1. AWS/1. First Class - Introduction.md",
+    "Untitled.md",
     "MyFirstLinkedNote.md",
     "0. Getting started/1. Setup.md",
-    "1. AWS/3. S3.md",
+    "1. AWS/3. Third Class - Amazon Ec2.md",
     "Untitled 2.md",
-    "Untitled 1.md",
-    "Untitled.md"
+    "Untitled 1.md"
   ]
 }
