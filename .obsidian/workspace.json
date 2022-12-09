@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "0a0be808c416c960",
+    "type": "split",
+    "children": [
+      {
+        "id": "502d21658bc19ac3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3ad8611707dcd8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Edureka AWS/3. S3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "da817ee0fc79269c",
+    "type": "split",
+    "children": [
+      {
+        "id": "03687bb51245ff04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a66a2c5e83b68c92",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "46a39fe9b92972f9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4d66cf878ba76693",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "af8b045d3e7adae7",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a05128be8d8af1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "644f26e8177da131",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. Edureka AWS/3. S3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d2ebe7ae68c38f46",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. Edureka AWS/3. S3.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "12eda83a1fd0b151",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a4b193ad2b5ca552",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. Edureka AWS/3. S3.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b3ad8611707dcd8d",
+  "lastOpenFiles": []
+}
