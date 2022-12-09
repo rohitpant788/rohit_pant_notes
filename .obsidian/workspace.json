@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Edureka AWS/3. S3.md",
+                "file": "1. AWS/3. S3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Edureka AWS/3. S3.md",
+                "file": "1. AWS/3. S3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Edureka AWS/3. S3.md",
+                "file": "1. AWS/3. S3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Edureka AWS/3. S3.md"
+                "file": "1. AWS/3. S3.md"
               }
             }
           }
@@ -136,6 +136,6 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b3ad8611707dcd8d",
+  "active": "a66a2c5e83b68c92",
   "lastOpenFiles": []
 }
