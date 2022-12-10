@@ -8,4 +8,4 @@ updated: 2022-12-09T17:27:51+05:30
 
 # Notes
 
-[[AWS Solutions Architect Associate/AWS Solutions Architect Associate (SAA-C02)|AWS Solutions Architect Associate (SAA-C02)]]
+[[AWS Solutions Architect Associate/AWS Solutions Architect Associate (SAA-C03)|AWS Solutions Architect Associate (SAA-C03)]]
