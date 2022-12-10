@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS Solutions Architect Associate/AWS Solutions Architect Associate (SAA-C02).md",
-                "mode": "preview",
-                "source": false
+                "file": "index.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS Solutions Architect Associate/AWS Solutions Architect Associate (SAA-C02).md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS Solutions Architect Associate/AWS Solutions Architect Associate (SAA-C02).md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,8 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS Solutions Architect Associate/AWS Solutions Architect Associate (SAA-C02).md"
+                "file": "index.md"
               }
+            }
+          },
+          {
+            "id": "b53059f543674d95",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
@@ -136,12 +144,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bf94553a2f2151e6",
+  "active": "a66a2c5e83b68c92",
   "lastOpenFiles": [
     "Notes/Notes.md",
     "index.md",
-    "0. Getting started/1. Setup.md",
     "AWS Solutions Architect Associate/AWS Solutions Architect Associate (SAA-C02).md",
+    "0. Getting started/1. Setup.md",
     "1. AWS/3. Third Class - Amazon Ec2.md",
     "1. AWS/1. First Class - Introduction.md",
     "1. AWS/2. Second Class - IAM (Identity Access Management).md",
